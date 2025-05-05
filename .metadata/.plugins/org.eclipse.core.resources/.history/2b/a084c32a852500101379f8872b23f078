@@ -1,0 +1,42 @@
+package com.demo.entity;
+
+public class Address {
+	
+	private String city;
+	private int pinCod;
+	
+	public Address() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public Address(String city, int pinCod) {
+		super();
+		this.city = city;
+		this.pinCod = pinCod;
+	}
+
+	public String getCity() {
+		return city;
+	}
+
+	public void setCity(String city) {
+		this.city = city;
+	}
+
+	public int getPinCod() {
+		return pinCod;
+	}
+
+	public void setPinCod(int pinCod) {
+		this.pinCod = pinCod;
+	}
+
+	@Override
+	public String toString() {
+		return "Address [city=" + city + ", pinCod=" + pinCod + "]";
+	}
+	
+	
+
+}

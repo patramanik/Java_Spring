@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans  
+    http://www.springframework.org/schema/beans/spring-beans.xsd   
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd ">
+
+	<!-- This is our Beans value as an element -->
+	
+	<bean class="com.demo.entity.Employee" name="employee1">
+		<property name="empId">
+			<value>101</value>
+		</property>
+		<property name="empName">
+			<value>Manik</value>
+		</property>
+		<property name="empCity">
+			<value>Pune</value>
+		</property>
+		<property name="salary">
+			<value>25000</value>
+		</property>
+	</bean>
+	
+	<!-- This is our Beans value as an attribute -->
+	<bean class="com.demo.entity.Employee" name="employee2">
+		<property name="empId" value="102"/>
+		<property name="empName" value="Suman"/>
+		<property name="empCity" value="Pune"/>
+		<property name="salary" value="26000"/>
+	</bean>
+	
+	<!-- This is our Beans value as an P:schema -->
+	<bean class="com.demo.entity.Employee" name="employee3" p:empId="103"  p:empName="kunal" p:empCity="Pune" p:salary="50000"/>
+</beans>

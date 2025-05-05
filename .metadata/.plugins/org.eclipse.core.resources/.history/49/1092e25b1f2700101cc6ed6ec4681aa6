@@ -1,0 +1,16 @@
+package com.demo.bean;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Student {
+	
+	private String name;
+	private String city;
+	
+	
+	public void study() {
+		System.out.println("student studying");
+	}
+
+}

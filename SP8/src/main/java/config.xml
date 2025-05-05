@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:c="http://www.springframework.org/schema/c"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans  
+    http://www.springframework.org/schema/beans/spring-beans.xsd   
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd ">
+
+	<!-- This is Constructor injaction With ref type -->
+	
+	<bean class="com.demo.entity.Certificate" name="cer1">
+		<constructor-arg name="name" value="java" />
+	</bean>
+	
+	<bean class="com.demo.entity.Person" name="person1">
+	
+	<constructor-arg name="pid" value="101"/>
+	<constructor-arg name="pname" value="manik"/>
+	<constructor-arg name="certi" ref="cer1"/>
+
+	</bean>
+	
+	<!-- This is Constructor injaction With scama type  -->
+	
+	<bean class="com.demo.entity.Person" name="person2" c:pid="102" c:pname="suman" c:certi-ref="cer1"/>
+	
+
+	
+</beans>

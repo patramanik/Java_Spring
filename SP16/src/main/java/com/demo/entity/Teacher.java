@@ -1,0 +1,39 @@
+package com.demo.entity;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Component;
+
+@Component
+@Scope("prototype")
+public class Teacher {
+	
+	@Value("kunal")
+	private String name;
+	@Value("pune")
+	private String city;
+	
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getCity() {
+		return city;
+	}
+
+	public void setCity(String city) {
+		this.city = city;
+	}
+
+	@Override
+	public String toString() {
+		return "Teacher [name=" + name + ", city=" + city + "]";
+	}
+	
+	
+}
