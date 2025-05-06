@@ -1,5 +1,7 @@
 package com.demo.test;
 
+import java.util.List;
+
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -21,13 +23,46 @@ public class App
         
         StudentDao dao = context.getBean("studentDao", StudentDaoImpl.class);
         
-        Student student = new Student();
-        student.setId(2);
-       
+        // for insert student 
         
-        int result = dao.delete(student);
+//        Student student = new Student();
+//        student.setId(3);
+//        student.setName("amit");
+//        student.setCity("belda");
+//        
+//         int insert = dao.insert(student);
+//        
+//        System.out.println(insert);
         
-        System.out.println(result);
+        
+        // for delete one student 
+        
+//        
+//        Student student = new Student();
+//        student.setId(2);
+//       
+//        
+//        int result = dao.delete(student);
+//        
+//        System.out.println(result);
+        
+        
+        // for get one Student
+        
+//         Student oneStudent = dao.getOneStudent(1);
+//         
+//         System.out.println(oneStudent);
+        
+        
+        // for get All the Students
+        
+        List<Student> allStudent = dao.getAllStudent();
+        
+        for(Student s : allStudent) {
+        	
+        	System.out.println(s);
+        }
+        
         
         
     }

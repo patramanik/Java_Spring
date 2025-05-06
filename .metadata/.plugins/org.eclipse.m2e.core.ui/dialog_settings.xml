@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Spring\SP17\src\main\java\com\demo\bean\Student.java"/>
 			<item value="D:\Spring\SP16\src\main\java\config.xml"/>
 			<item value="D:\Spring\SP14\src\main\java\config.xml"/>
 			<item value="D:\Spring\SP11\src\main\java\com\demo\entity\Employee.java"/>
@@ -41,6 +42,7 @@
 			<item value="com.demo.test"/>
 		</list>
 		<list key="artifactId">
+			<item value="SP18"/>
 			<item value="SP17"/>
 			<item value="SP16"/>
 			<item value="SP15"/>
