@@ -42,6 +42,7 @@
 			<item value="com.demo.test"/>
 		</list>
 		<list key="artifactId">
+			<item value="SPJDBC"/>
 			<item value="SP18"/>
 			<item value="SP17"/>
 			<item value="SP16"/>
@@ -56,7 +57,6 @@
 			<item value="SP"/>
 			<item value="SP7"/>
 			<item value="SP6"/>
-			<item value="SP2"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

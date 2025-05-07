@@ -2361,3 +2361,211 @@ Caused by: org.eclipse.core.runtime.OperationCanceledException: null
 2025-05-05 12:20:46,470 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
 2025-05-05 12:20:57,356 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
 2025-05-05 12:20:57,358 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:23:54,911 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-06 10:26:35,302 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-05-06 10:26:35,964 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:26:35,969 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:28:48,495 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [1318])
+2025-05-06 10:28:48,499 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2025-05-06 10:28:48,500 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\aopalliance-1.0.jar
+2025-05-06 10:28:48,500 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\guice-5.1.0.jar
+2025-05-06 10:28:48,500 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpclient-4.5.14.jar
+2025-05-06 10:28:48,500 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpcore-4.4.16.jar
+2025-05-06 10:28:48,500 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jansi-2.4.1.jar
+2025-05-06 10:28:48,501 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jcl-over-slf4j-1.7.36.jar
+2025-05-06 10:28:48,501 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-artifact-3.9.9.jar
+2025-05-06 10:28:48,501 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-builder-support-3.9.9.jar
+2025-05-06 10:28:48,501 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-compat-3.9.9.jar
+2025-05-06 10:28:48,501 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-core-3.9.9.jar
+2025-05-06 10:28:48,502 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-embedder-3.9.9.jar
+2025-05-06 10:28:48,502 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-3.9.9.jar
+2025-05-06 10:28:48,502 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-builder-3.9.9.jar
+2025-05-06 10:28:48,502 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-plugin-api-3.9.9.jar
+2025-05-06 10:28:48,502 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-repository-metadata-3.9.9.jar
+2025-05-06 10:28:48,502 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-api-1.9.22.jar
+2025-05-06 10:28:48,503 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-05-06 10:28:48,503 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-impl-1.9.22.jar
+2025-05-06 10:28:48,503 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-named-locks-1.9.22.jar
+2025-05-06 10:28:48,503 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-provider-3.9.9.jar
+2025-05-06 10:28:48,503 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-spi-1.9.22.jar
+2025-05-06 10:28:48,504 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-file-1.9.22.jar
+2025-05-06 10:28:48,504 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-http-1.9.22.jar
+2025-05-06 10:28:48,504 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-05-06 10:28:48,504 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-util-1.9.22.jar
+2025-05-06 10:28:48,504 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-3.9.9.jar
+2025-05-06 10:28:48,505 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-builder-3.9.9.jar
+2025-05-06 10:28:48,505 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-shared-utils-3.4.2.jar
+2025-05-06 10:28:48,505 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-05-06 10:28:48,505 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-05-06 10:28:48,505 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-0.0.7.jar
+2025-05-06 10:28:48,506 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-1.2.0.jar
+2025-05-06 10:28:48,506 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-cipher-2.0.jar
+2025-05-06 10:28:48,506 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-classworlds-2.8.0.jar
+2025-05-06 10:28:48,506 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-component-annotations-2.1.0.jar
+2025-05-06 10:28:48,507 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-interpolation-1.27.jar
+2025-05-06 10:28:48,507 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-sec-dispatcher-2.0.jar
+2025-05-06 10:28:48,508 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-utils-3.5.1.jar
+2025-05-06 10:28:48,508 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-xml-3.0.1.jar
+2025-05-06 10:28:48,509 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-file-3.5.3.jar
+2025-05-06 10:28:48,509 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-3.5.3.jar
+2025-05-06 10:28:48,509 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-shared-3.5.3.jar
+2025-05-06 10:28:48,509 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-provider-api-3.5.3.jar
+2025-05-06 10:28:48,512 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.0.jre [1023])
+2025-05-06 10:28:48,513 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\com.google.guava_33.4.0.jre.jar
+2025-05-06 10:28:48,513 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.17 [1513])
+2025-05-06 10:28:48,513 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\slf4j.api_2.0.17.jar
+2025-05-06 10:28:48,513 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [1032])
+2025-05-06 10:28:48,514 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2025-05-06 10:28:48,514 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1031])
+2025-05-06 10:28:48,514 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2025-05-06 10:28:48,514 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2025-05-06 10:28:48,515 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2025-05-06 10:28:48,515 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-05-06 10:28:48,515 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-05-06 10:28:48,515 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2025-05-06 10:28:48,516 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\patra\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-05-06 10:28:48,521 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\patra\AppData\Local\Temp\m2e-archetypeGenerator13669319591517427776":
+2025-05-06 10:28:48,527 [Worker-18: Launching mavenrun-4161cb1e-a2d2-494a-899f-0503b19fad11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 -DgroupId=com.demo.test -DartifactId=SPJDBC -Dversion=0.0.1-SNAPSHOT -Dpackage=com.demo.test -DoutputDirectory=D:\Spring -Dstyle.color=always -U archetype:generate
+2025-05-06 10:29:09,526 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Spring\SPJDBC\pom.xml
+2025-05-06 10:29:10,099 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo.test:SPJDBC:0.0.1-SNAPSHOT @ D:\Spring\SPJDBC\pom.xml.
+2025-05-06 10:29:10,889 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SPJDBC/src/main/java
+2025-05-06 10:29:10,896 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPJDBC/src/main/resources
+2025-05-06 10:29:10,910 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SPJDBC/src/test/java
+2025-05-06 10:29:10,911 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPJDBC/src/test/resources
+2025-05-06 10:29:11,132 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-05-06 10:29:11,763 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 10:29:11,768 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 10:30:36,864 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:30:36,866 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:39:29,565 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:39:29,569 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:39:37,517 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:39:37,525 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:40:41,448 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:40:41,453 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:43:41,222 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:43:41,224 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:48:12,854 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:48:12,858 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:48:15,448 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:48:15,451 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:48:23,882 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:48:23,885 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:49:53,842 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:49:53,844 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:51:08,713 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:51:08,715 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:51:53,633 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:51:53,636 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:54:25,431 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:54:25,433 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:57:38,988 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:57:38,991 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:57:45,964 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:57:45,966 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 10:58:54,850 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 10:58:54,852 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 11:00:18,325 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 11:00:18,328 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 11:01:05,302 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 11:01:05,305 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 11:01:47,478 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 11:01:47,480 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 11:02:28,480 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 11:02:28,482 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 11:03:13,973 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 11:03:13,975 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 11:03:54,623 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 11:03:54,625 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 11:04:13,459 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\main\resources
+2025-05-06 11:04:13,460 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SP18\src\test\resources
+2025-05-06 11:05:27,419 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo.test:SPJDBC:0.0.1-SNAPSHOT @ D:\Spring\SPJDBC\pom.xml.
+2025-05-06 11:05:27,480 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-05-06 11:05:27,592 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:05:27,594 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:05:28,735 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:05:28,736 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:06:08,456 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:06:08,460 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:08:21,075 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:08:21,078 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:09:30,033 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:09:30,036 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:10:35,031 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:10:35,036 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:10:55,282 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:10:55,284 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:11:10,228 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:11:10,229 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:11:45,224 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:11:45,226 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:11:58,855 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:11:58,857 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:13:28,354 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:13:28,356 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:14:34,083 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:14:34,086 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:15:01,632 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:15:01,634 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:19:37,960 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:19:37,963 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:19:48,481 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:19:48,482 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:21:14,528 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:21:14,530 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:24:01,299 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:24:01,300 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:26:09,471 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:26:09,473 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:28:36,633 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:28:36,635 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:31:57,812 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:31:57,813 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:32:57,482 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:32:57,483 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:33:27,759 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:33:27,761 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:34:31,863 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:34:31,865 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:34:54,568 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:34:54,569 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:35:24,344 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:35:24,346 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:39:34,452 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:39:34,454 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:41:23,725 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:41:23,727 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:42:06,705 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:42:06,707 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:43:50,279 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:43:50,281 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:45:41,039 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:45:41,040 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:46:18,997 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:46:18,998 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:47:30,492 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:47:30,494 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:48:50,495 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:48:50,498 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:51:23,414 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:51:23,416 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:51:33,731 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:51:33,732 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:52:32,164 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:52:32,166 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:55:02,164 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:55:02,166 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:56:57,905 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:56:57,907 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:57:59,085 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:57:59,088 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 11:59:00,664 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 11:59:00,671 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 12:00:09,270 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 12:00:09,272 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 12:01:32,689 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 12:01:32,690 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 12:01:37,229 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 12:01:37,230 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources
+2025-05-06 12:02:47,820 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\main\resources
+2025-05-06 12:02:47,821 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\SPJDBC\src\test\resources

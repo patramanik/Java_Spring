@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Map"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="com.demo.bein.Student"/>
     <fullyQualifiedTypeName name="com.demo.test.App"/>
@@ -12,7 +11,6 @@
     <fullyQualifiedTypeName name="com.demo.entity.Address"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.demo.entity.Laptop"/>
-    <fullyQualifiedTypeName name="com.demo.entity.Employee"/>
     <fullyQualifiedTypeName name="com.demo.entity.Teacher"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
@@ -23,12 +21,19 @@
     <fullyQualifiedTypeName name="com.demo.bean.JavaConfig"/>
     <fullyQualifiedTypeName name="com.demo.bean.Student"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
-    <fullyQualifiedTypeName name="org.springframework.jdbc.core.JdbcTemplate"/>
     <fullyQualifiedTypeName name="org.springframework.jdbc.datasource.DriverManagerDataSource"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="com.demo.dao.StudentDao"/>
     <fullyQualifiedTypeName name="com.demo.dao.StudentDaoImpl"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
     <fullyQualifiedTypeName name="com.demo.entity.Student"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.core.JdbcTemplate"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.demo.dao.EmployeeDaoImpl"/>
+    <fullyQualifiedTypeName name="com.demo.dao.EmployeeDao"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.core.RowMapper"/>
+    <fullyQualifiedTypeName name="com.demo.dao.RowMapperImpl"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.demo.entity.Employee"/>
 </qualifiedTypeNameHistroy>
